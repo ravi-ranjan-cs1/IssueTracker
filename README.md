@@ -11,7 +11,6 @@
 
 To install all the dependences of the project, run the following command:
 
-    git clone https://github.com/shakti1590/Issue-Tracker.git
     npm install
     npm start
 
@@ -19,5 +18,7 @@ To install all the dependences of the project, run the following command:
 ### Deployment link  or host link
  https://issue-tracker-v6sh.onrender.com
  
- 
-## Ravi Ranjan Kumar
+ <p> align center
+  ## Ravi Ranjan Kumar ❤️
+ </p>
+
