@@ -18,7 +18,9 @@ To install all the dependences of the project, run the following command:
 ### Deployment link  or host link
  https://issue-tracker-v6sh.onrender.com
  
- <p align= "center" bold> 
-  Ravi Ranjan Kumar ❤️
+ <p align= "center">
+  <b>
+   Ravi Ranjan Kumar ❤️
+  </b>
  </p>
 
