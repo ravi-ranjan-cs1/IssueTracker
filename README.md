@@ -16,11 +16,8 @@ To install all the dependences of the project, run the following command:
     npm start
 
  
-### Deployment link 
- - Link - 
- 
-### Source Code 
- - https://github.com/shakti1590/Issue-Tracker
+### Deployment link  or host link
+ https://issue-tracker-v6sh.onrender.com
  
  
-##### © 2023 <a href="https://github.com/shakti1590"> Shakti Singh</a>
+## Ravi Ranjan Kumar
